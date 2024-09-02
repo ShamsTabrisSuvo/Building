@@ -1,0 +1,119 @@
+/* CONTACT CSS START  */
+
+#contact {
+  padding: 130px 0;
+}
+#contact .contact-heading h2 {
+  color: #282938;
+  text-align: center;
+
+  /* Heading 2 */
+  font-family: Poppins;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 64px; /* 133.333% */
+}
+#contact .contact-heading p {
+  color: #282938;
+  text-align: center;
+  margin: 0 auto;
+  width: 562px;
+  opacity: 0.7;
+  padding-bottom: 64px;
+  /* Body 1 */
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px; /* 175% */
+}
+#contact .contact-form {
+  border-radius: 12px;
+  background: #f4f6fc;
+  padding: 55px 76px 70px 77px;
+}
+#contact .contact-form form .form {
+  display: flex;
+}
+#contact .contact-form form label {
+  color: #000;
+  padding-bottom: 10px;
+  /* Label 01 */
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px; /* 177.778% */
+}
+#contact .contact-form form input::placeholder {
+  color: #000;
+
+  /* Body 1 */
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px; /* 175% */
+}
+#contact .contact-form form .form .form-left input[type="text"] {
+  background-color: transparent;
+  width: 95%;
+  margin-bottom: 24px;
+  padding: 18px 32px;
+  border-radius: 8px;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+}
+#contact .contact-form form .form .form-right input[type="text"] {
+  background-color: transparent;
+  margin-bottom: 24px;
+  padding: 18px 32px;
+  border-radius: 8px;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+}
+#contact .contact-form form .form .form-right input[type="email"] {
+  background-color: transparent;
+  margin-bottom: 24px;
+  padding: 18px 32px;
+  border-radius: 8px;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+}
+#contact .contact-form form .form-bottom input[type="text"] {
+  background-color: transparent;
+  margin-bottom: 24px;
+  padding: 18px 32px;
+  border-radius: 8px;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  padding: 18px 32px 100px 32px;
+}
+#contact .contact-form form .submit input[type="submit"] {
+  color: #f4f6fc;
+  font-family: Manrope;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 32px; /* 177.778% */
+  padding: 15px 61px;
+  border-radius: 41px;
+  background: #282938;
+}
+#contact .contact-form form .name {
+  display: flex;
+  flex-direction: column;
+}
+#contact .contact-form form .subject {
+  display: flex;
+  flex-direction: column;
+}
+#contact .contact-form form .name input {
+}
+#contact .contact-form form .email {
+  display: flex;
+  flex-direction: column;
+}
+#contact .contact-form form .form-bottom {
+  display: flex;
+  flex-direction: column;
+}
+
+/* CONTACT CSS END  */

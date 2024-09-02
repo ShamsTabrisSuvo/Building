@@ -1,0 +1,264 @@
+/* NAVBAR CSS START */
+
+.navbar .nav-item:nth-child(4) a {
+  color: #fff;
+}
+.navbar .nav-item:nth-child(3) a {
+  color: #bbbbcb;
+}
+.navbar .nav-item:nth-child(3):hover a {
+  color: #fff;
+}
+
+/* NAVBAR CSS END */
+
+/* PRICING-PLAN CSS START */
+
+#pricing-plan {
+  background-color: #fff;
+  padding: 130px 0;
+}
+#pricing-plan .pricing-plan-heading h2 {
+  color: #282938;
+  text-align: center;
+  padding-bottom: 10px;
+  /* Heading 2 */
+  font-family: Poppins;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 64px; /* 133.333% */
+}
+#pricing-plan .pricing-plan-heading p {
+  color: #282938;
+  text-align: center;
+  width: 562px;
+  opacity: 0.7;
+  margin: 0 auto;
+  padding-bottom: 64px;
+  /* Body 2 */
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 28px; /* 175% */
+}
+#pricing-plan .pricing-box {
+  width: 406px;
+  height: 785px;
+  flex-shrink: 0;
+  border-radius: 12px;
+  background: #f4f6fc;
+  padding: 64px 76px 62px 48px;
+  transition: all linear 0.4s;
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+}
+#pricing-plan .pricing-box::after {
+  content: "";
+  position: absolute;
+  top: -512px;
+  left: -383px;
+  width: 1151px;
+  height: 1151px;
+  flex-shrink: 0;
+  border-radius: 1151px;
+  background: rgba(255, 255, 255, 0.06);
+  z-index: 2;
+  transition: all linear 0.4s;
+}
+#pricing-plan .pricing-box:hover {
+  background: #1c1e53;
+}
+#pricing-plan .pricing-box:hover h3 {
+  color: #fff;
+}
+#pricing-plan .pricing-box:hover span {
+  color: #fcd980;
+}
+#pricing-plan .pricing-box:hover p {
+  color: #fff;
+}
+#pricing-plan .pricing-box:hover h4 {
+  color: #fff;
+}
+#pricing-plan .pricing-box:hover ul li h5 {
+  color: #fff;
+}
+#pricing-plan .pricing-box:hover .pricing-btn a {
+  color: #282938;
+  background-color: #fcd980;
+}
+#pricing-plan .pricing-box div {
+  display: flex;
+  align-items: center;
+  padding-bottom: 20px;
+}
+#pricing-plan .pricing-box h3 {
+  display: inline-block;
+  color: #282938;
+  transition: all linear 0.4s;
+
+  /* Heading 3 */
+  font-family: Poppins;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 56px; /* 147.368% */
+}
+#pricing-plan .pricing-box span {
+  color: #2405f2;
+  padding-left: 5px;
+  padding-bottom: 5px;
+  /* Body 1 */
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px; /* 175% */
+  transition: all linear 0.4s;
+}
+#pricing-plan .pricing-box h4 {
+  color: #282938;
+  transition: all linear 0.4s;
+  /* Heading 6 */
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 36px; /* 150% */
+}
+#pricing-plan .pricing-box p {
+  color: #282938;
+  width: 281px;
+  opacity: 0.7;
+  padding-bottom: 78px;
+  /* Body 2 */
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 28px; /* 175% */
+  transition: all linear 0.4s;
+}
+#pricing-plan .pricing-box:nth-child(2) p {
+  padding-bottom: 48px;
+}
+#pricing-plan .pricing-box:nth-child(3) p {
+  padding-bottom: 45px;
+}
+#pricing-plan .pricing-box ul {
+  padding: 0;
+}
+#pricing-plan .pricing-box ul li {
+  padding-bottom: 15px;
+}
+#pricing-plan .pricing-box ul li h5 {
+  display: inline-block;
+  color: #282938;
+  transition: all linear 0.4s;
+  /* Body 1 */
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px; /* 175% */
+}
+#pricing-plan .pricing-box ul li img {
+  padding-right: 15px;
+  transition: all linear 0.4s;
+}
+
+#pricing-plan .pricing-box .pricing-btn {
+  display: flex;
+  justify-content: end;
+  padding-top: 50px;
+}
+#pricing-plan .pricing-box .pricing-btn a {
+  text-decoration: none;
+  transition: all linear 0.4s;
+
+  color: #f4f6fc;
+  font-family: Manrope;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 32px; /* 177.778% */
+  padding: 15px 81px;
+  border-radius: 41px;
+  background: #282938;
+}
+#pricing-plan .pricing-box:nth-child(3) .pricing-btn {
+  padding-top: 30px;
+}
+
+/* PRICING-PLAN CSS END */
+
+/* PRICING-FAQ CSS START */
+
+#pricing-faq {
+  padding-bottom: 130px;
+  background-color: #fff;
+}
+#pricing-faq .section-6-content h2 {
+  color: #282938;
+  width: 328px;
+  /* Heading 3 */
+  font-family: Poppins;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 56px; /* 147.368% */
+}
+#pricing-faq .section-6-content a {
+  color: #2405f2;
+  text-align: center;
+  opacity: 0.87;
+  text-decoration: none;
+  /* Label 01 */
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 32px; /* 177.778% */
+}
+#pricing-faq .section-6-faq .faq {
+  padding: 32px 0;
+  border-bottom: 2px solid #ececf1;
+  position: relative;
+}
+#pricing-faq .section-6-faq h3 {
+  color: #2405f2;
+  text-align: center;
+  margin-left: 30px;
+  margin-right: 58px;
+  /* Heading 6 */
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+}
+#pricing-faq .section-6-faq .faq a {
+  position: absolute;
+  top: 42px;
+  right: 0;
+}
+#pricing-faq .section-6-faq h4 {
+  color: #282938;
+
+  /* Heading 6 */
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+#pricing-faq .section-6-faq a i {
+  color: #282938;
+  opacity: 0.7;
+  font-size: 20px;
+}
+
+
+/* PRICING-FAQ CSS END */

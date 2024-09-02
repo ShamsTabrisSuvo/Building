@@ -1,0 +1,289 @@
+@media (max-width: 575.98px) {
+  .top-btn {
+    display: none;
+  }
+  .nav-btn a {
+    padding: 8px 24px 8px 24px;
+    font-size: 14px;
+  }
+
+  #banner {
+    padding: 90px 0;
+  }
+
+  #banner .banner-content h1 {
+    text-align: center;
+    font-size: 36px;
+    width: auto;
+    line-height: 54px;
+  }
+  #banner .banner-content p {
+    font-size: 14px;
+    width: 400px;
+    text-align: center;
+    margin: 0 auto;
+  }
+  #banner .banner-content .banner-btn {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  }
+  #banner .banner-content .button a {
+    font-size: 16px;
+    padding: 12px 44px;
+  }
+  #banner .banner-content .banner-btn span a {
+    font-size: 14px;
+  }
+  #banner img {
+    width: 90%;
+    padding: 100px 0 0 50px;
+  }
+  #section-2 {
+    padding: 90px 0;
+  }
+  #section-2 .section-2-content h2 {
+    font-size: 36px;
+    text-align: center;
+  }
+  #section-2 .section-2-content p {
+    font-size: 14px;
+    width: 360px;
+    text-align: center;
+    margin: 0 auto;
+    padding-bottom: 20px;
+  }
+  #section-2 .section-2-content a {
+    font-size: 16px;
+    text-align: center;
+    width: 100%;
+    padding-bottom: 80px;
+  }
+  #section-2 .section-2-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  #section-2 .section-2-box img {
+    width: 10%;
+  }
+  #section-2 .section-2-box h3 {
+    font-size: 24px;
+  }
+  #section-2 .section-2-box p {
+    width: 350px;
+    font-size: 14px;
+    text-align: center;
+  }
+  #section-2 .section-2-box:nth-child(5) p {
+    padding-bottom: 50px;
+  }
+  #section-3 {
+    background-color: #fff;
+    padding: 90px 0;
+  }
+  #section-3 .section-3-writting h2 {
+    font-size: 30px;
+    padding-left: 20px;
+  }
+  #section-3 .section-3-writting a {
+    font-size: 16px;
+    padding-right: 20px;
+  }
+  #section-3 .section-3-img1 {
+    width: 100%;
+    height: auto;
+    padding-top: 200px;
+    padding-left: 40px;
+    margin-bottom: 70px;
+  }
+  #section-3 .section-3-img1::after {
+    width: 65%;
+    height: 100%;
+  }
+  #section-3 .section-3-img1 h3 {
+	font-size: 20px;
+}
+#section-3 .section-3-img1 p {
+	font-size: 14px;
+	margin-top: -5px;
+	margin-bottom: 16px;
+}
+#section-3 .section-3-img1 a {
+	font-size: 16px;
+	padding-bottom: 38px;
+}
+#section-3 .section-3-img2 {
+	margin: 0 auto;
+}
+#section-3 .section-3-img3 {
+	margin: 0 auto;
+}
+#section-4 {
+	padding: 90px 0;
+}
+#section-4 .section-4-writting h2 {
+	width: 500px;
+	font-size: 30px;
+	line-height: 40px;
+}
+#section-4 .section-4-box {
+	background-color: #fff;
+	padding: 58px 32px 48px 47.5px;
+	width: 405px;
+	margin: 0px auto !important;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#section-4 .section-4-box p {
+	text-align: center;
+    font-size: 14px;
+}
+#section-5 {
+	padding: 90px 0;
+}
+#section-5 .section-5-left h3 {
+	font-size: 30px;
+	line-height: 40px;
+	text-align: center;
+	margin: 0 auto;
+	padding-bottom: 20px;
+}
+#section-5 .section-5-left p {
+	width: auto;
+	font-size: 14px;
+	text-align: center;
+	margin: 0 auto;
+	padding-bottom: 40px;
+}
+#section-5 .section-5-right h4 {
+	width: 515px;
+	font-size: 20px;
+	line-height: 45px;
+	text-align: center;
+	margin: 0 auto;
+	padding-bottom: 55px;
+}
+#section-6 {
+	padding: 90px 0;
+}
+#section-6 .section-6-content h2 {
+	width: auto;
+	font-size: 30px;
+	line-height: 40px;
+	text-align: center;
+}
+#section-6 .section-6-content a {
+	text-align: center;
+	font-size: 16px;
+	line-height: 29px;
+	padding-bottom: 20px;
+	width: 100%;
+}
+#section-6 .section-6-faq h3 {
+	font-size: 18px;
+}
+#section-6 .section-6-faq h4 {
+	font-size: 18px;
+}
+#section-7 .section-7-content {
+	padding: 85px 0 85px 60px;
+}
+#section-7 .section-7-content::after {
+	width: 100%;
+	height: 100%;
+}
+#section-7 .section-7-content h2 {
+	font-size: 30px;
+	line-height: 45px;
+}
+#section-7 .section-7-content p {
+	font-size: 14px;
+    opacity: 0.7;
+
+}
+#section-7 .section-7-form {
+	padding: 80px 0px 0px 35px;
+}
+#section-7 .section-7-form h3 {
+	font-size: 28px;
+	line-height: 34px;
+}
+#section-7 .section-7-form p {
+	font-size: 14px;
+	line-height: 28px;
+	opacity: 0.7;
+}
+#section-7 .section-7-form input::placeholder {
+	font-size: 14px;
+}
+#section-7 .section-7-form input {
+	padding: 18px 165px 18px 32px;
+}
+#section-7 .section-7-form input[type="submit"] {
+	font-size: 16px;
+	padding: 10px 65px;
+	opacity: 1;
+	margin: 0 auto;
+}
+#section-7 .section-7-form a {
+	width: 100%;
+	font-size: 16px;
+	margin: 30px 0 50px 0;
+	text-align: center;
+}
+#section-8 {
+	padding: 90px 0;
+}
+#section-8 .section-8-writting h2 {
+	font-size: 40px;
+	line-height: 30px;
+}
+#section-8 .section-8-box {
+    margin-left: 75px;
+    margin-bottom: 60px;
+}
+#section-8 .section-8-box:last-child {
+    margin-bottom: 0px;
+}
+#footer {
+	background: #1c1e53;
+	padding-top: 80px;
+}
+#footer .footer-left p {
+	color:#fff;
+	opacity: 0.7;
+	font-size: 14px;
+    padding-bottom: 36px;
+}
+#footer .footer-left .ftr-contact {
+	padding: 16px 0 17px 37px;
+	width: 75%;
+	margin: 0 auto;
+}
+#footer .footer-right h3 {
+	font-size: 36px;
+	padding-top: 30px;
+}
+#footer .footer-right p {
+	font-size: 14px;
+}
+#footer .footer-right a {
+	padding-bottom: 80px;
+}
+#footer .footer-right a i {
+	font-size: 24px;
+	color: white;
+}
+#footer .footer-bottom .copyright h6 {
+	text-align: center;
+}
+#footer .footer-menu ul {
+	padding-right: 60px;
+	padding-top: 12px;
+}
+}

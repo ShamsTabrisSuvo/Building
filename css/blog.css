@@ -1,0 +1,136 @@
+/* NAVBAR CSS START */
+
+.navbar .nav-item:nth-child(6) a {
+  color: #fff;
+}
+.navbar .nav-item:nth-child(4) a {
+  color: #bbbbcb;
+}
+.navbar .nav-item:nth-child(4):hover a {
+  color: #fff;
+}
+
+/* NAVBAR CSS END */
+
+/* BLOG-BANNER CSS START  */
+
+#blog-banner {
+  padding: 130px 0;
+}
+#blog-banner .blog-banner-content h2 {
+  color: #282938;
+  text-align: center;
+  width: 949px;
+  margin: 0 auto;
+  /* Heading 2 */
+  font-family: Poppins;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 64px; /* 133.333% */
+}
+#blog-banner .blog-banner-content h3 {
+  color: #282938;
+  text-align: center;
+  padding-top: 16px;
+  padding-bottom: 32px;
+
+  /* Label 2 */
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 28px; /* 175% */
+}
+#blog-banner .blog-banner-content p {
+  color: #282938;
+  text-align: center;
+  opacity: 0.7;
+  width: 831px;
+  margin: 0 auto;
+  padding-top: 48px;
+  padding-bottom: 16px;
+  /* Body 1 */
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px; /* 175% */
+}
+#blog-banner .blog-banner-content a {
+  color:#2405f2;
+  text-align: center;
+  opacity: 0.7;
+  text-decoration: none;
+  /* Body 1 */
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px; /* 175% */
+}
+
+/* BLOG-BANNER CSS END  */
+
+/* BLOG-BLOG CSS START  */
+
+#blog-blog {
+  padding-bottom: 130px;
+  background-color: #fff;
+}
+#blog-blog .section-8-writting h2 {
+  color: #282938;
+  margin-bottom: 64px;
+  text-align: center;
+  /* Heading 2 */
+  font-family: Poppins;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 64px; /* 133.333% */
+}
+#blog-blog .section-8-box h3 {
+  color: #282938;
+  width: 93px;
+  opacity: 0.7;
+  /* Label 2 */
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 28px; /* 175% */
+  padding-top: 40px;
+}
+#blog-blog .section-8-box h4 {
+  color: #282938;
+  width: 405px;
+  /* Heading 6 */
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 36px; /* 150% */
+}
+#blog-blog .section-8-box p {
+  color: #282938;
+  opacity: 0.7;
+  width: 405px;
+  /* Body 1 */
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px; /* 175% */
+}
+#blog-blog .section-8-box a {
+  color: #282938;
+  text-decoration: none;
+  /* Label 2 */
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 28px; /* 175% */
+}
+
+/* BLOG-BLOG CSS END  */

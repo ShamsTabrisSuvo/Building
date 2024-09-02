@@ -1,0 +1,516 @@
+/* NAVBAR CSS START */
+
+.navbar .nav-item:nth-child(2) a {
+  color: #fff;
+}
+.navbar .nav-item:first-child a {
+  color: #bbbbcb;
+}
+.navbar .nav-item:first-child:hover a {
+  color: #fff;
+}
+
+/* NAVBAR CSS END */
+
+/* ABOUT-1 CSS START */
+
+#about-1 {
+  padding: 130px 0;
+  background: #fff;
+}
+#about-1 .about-1-content h2 {
+  color: #282938;
+
+  /* Label 01 */
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 10px; /* 177.778% */
+}
+#about-1 .about-1-content h3 {
+  color: var(--Dark-blue, #282938);
+  width: 595px;
+  /* Heading 1 */
+  font-family: Poppins;
+  font-size: 54px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 74px; /* 137.037% */
+  padding-bottom: 30px;
+}
+#about-1 .about-1-content p {
+  color: var(--Dark-blue, #282938);
+  text-align: justify;
+  opacity: 0.7;
+  width: 484px;
+  /* Body 1 */
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px; /* 175% */
+}
+
+/* ABOUT-1 CSS END */
+
+/* ABOUT-2 CSS START */
+
+#about-2 .about-2-content {
+  padding: 80px 0;
+  padding-left: 80px;
+  background: #f4f5f5;
+}
+#about-2 .about-2-content .about-2-left h2 {
+  color: #282938;
+
+  /* Label 2 */
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 28px; /* 175% */
+}
+#about-2 .about-2-content .about-2-left h3 {
+  color: #282938;
+
+  /* Heading 3 */
+  font-family: Poppins;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 56px; /* 147.368% */
+}
+#about-2 .about-2-content .about-2-left p {
+  color: #282938;
+  width: 515px;
+  opacity: 0.7;
+  /* Body 1 */
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px; /* 175% */
+}
+#about-2 .about-2-content .about-2-right h4 {
+  color: #282938;
+
+  /* Heading 3 */
+  font-family: Poppins;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 56px; /* 147.368% */
+}
+#about-2 .about-2-content .about-2-right p {
+  color: #282938;
+  width: 515px;
+  opacity: 0.7;
+  /* Body 1 */
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px; /* 175% */
+}
+#about-2 .about-2-img {
+  width: 1320px;
+  height: 340px;
+  flex-shrink: 0;
+  background: url(../images/man-in-blue-jacket-looking-at-white-board-7413916.png)
+    lightgray 50% / cover no-repeat;
+}
+
+/* ABOUT-2 CSS END */
+
+/* ABOUT-3 CSS START */
+
+#about-3 {
+  padding: 130px 0;
+  background-color: #fff;
+}
+#about-3 .about-3-heading {
+  text-align: center;
+}
+#about-3 .about-3-heading h2 {
+  color: #282938;
+  padding-bottom: 48px;
+  /* Heading 2 */
+  font-family: Poppins;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 64px; /* 133.333% */
+}
+#about-3 .about-3-box .about-circle {
+  background-color: #2405f2;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+  border-radius: 100px;
+  position: relative;
+}
+#about-3 .about-3-box .about-circle::after {
+  content: "";
+  position: absolute;
+  top: 11px;
+  left: 36px;
+  width: 224px;
+  border-top: 2px dotted #2505f258;
+}
+#about-3 .about-3-box h3 {
+  color: #282938;
+  padding-top: 32px;
+  padding-bottom: 8px;
+  /* Heading 6 */
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 36px; /* 150% */
+}
+#about-3 .about-3-box p {
+  color: #282938;
+  opacity: 0.7;
+  width: 272px;
+  /* Body 1 */
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px; /* 175% */
+}
+
+/* ABOUT-3 CSS END */
+
+/* ABOUT-4 CSS START */
+
+#about-4 {
+  background: #eef4fa;
+  padding: 130px 0;
+}
+#about-4 .about-1-content h2 {
+  color: #282938;
+
+  /* Label 01 */
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 10px; /* 177.778% */
+}
+#about-4 .about-1-content h3 {
+  color: var(--Dark-blue, #282938);
+  /* Heading 1 */
+  font-family: Poppins;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 56px; /* 137.037% */
+}
+#about-4 .about-1-content p {
+  color: var(--Dark-blue, #282938);
+  text-align: justify;
+  opacity: 0.7;
+  width: 484px;
+  /* Body 1 */
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px; /* 175% */
+}
+#about-4 .about-1-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+/* ABOUT-4 CSS END */
+
+/* ABOUT-5 CSS START */
+
+#about-5 {
+  padding: 130px 0;
+  background-color: #fff;
+}
+#about-5 .about-5-heading h2 {
+  color: #282938;
+  text-align: center;
+  margin: 0 auto;
+  width: 630px;
+  padding-bottom: 48px;
+  /* Heading 2 */
+  font-family: Poppins;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 64px; /* 133.333% */
+}
+#about-5 .section-4-box {
+  background: #f4f6fc;
+  padding: 58px 32px 48px 47.5px;
+  width: 405px;
+}
+#about-5 .section-4-box h3 {
+  color: #282938;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  /* Heading 6 */
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 36px; /* 150% */
+}
+#about-5 .section-4-box p {
+  color: #282938;
+  width: 324.079px;
+  opacity: 0.7;
+  /* Body 1 */
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px; /* 175% */
+}
+#about-5 .about-5-content h4 {
+  color: #282938;
+
+  /* Heading 3 */
+  font-family: Poppins;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 56px; /* 147.368% */
+}
+#about-5 .about-5-content p {
+  color: #282938;
+  opacity: 0.7;
+  /* Body 1 */
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px; /* 175% */
+}
+#about-5 .logo-box div {
+  padding-left: 59px;
+}
+
+/* ABOUT-5 CSS END */
+
+/* ABOUT-6 CSS START */
+
+#about-6 {
+  padding: 130px 0;
+  background: #f4f6fc;
+}
+#about-6 .about-6-heading h2 {
+  color: #282938;
+  text-align: center;
+  margin: 0 auto;
+  padding-bottom: 48px;
+
+  /* Heading 2 */
+  font-family: Poppins;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 64px; /* 133.333% */
+}
+#about-6 .about-6-img-box {
+  background-color: #fff;
+  width: 296px;
+  height: 344px;
+  flex-shrink: 0;
+  transition: all ease 1.2s;
+}
+#about-6 .about-6-img-box:hover .headshot::after {
+    background: linear-gradient(348deg, #5239FA 17.97%, rgba(255, 255, 255, 0.00) 79.2%);
+}
+#about-6 .about-6-img-box:hover .headshot a {
+  color: #fff;
+}
+#about-6 .about-6-img-box .headshot {
+  background: url(../images/man-in-black-suit-holding-a-calling-card-3785104.png);
+  width: 168px;
+  height: 168px;
+  flex-shrink: 0;
+  border-radius: 100px;
+  margin: 0 auto;
+  margin-bottom: 30px;
+  margin-top: 48px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: end;
+}
+#about-6 .about-6-img-box .headshot::after {
+  content: '';
+  position: absolute;
+  z-index: 2;
+  top: 0;
+  left: 0;
+  width: 168px;
+  height: 168px;
+  border-radius: 100px;
+  background-color: transparent;
+  transition: all ease 1.2s;
+}
+#about-6 .about-6-img-box .headshot a {
+  color: transparent;
+  position: relative;
+  z-index: 3;
+  padding-bottom: 25px;
+  padding-left: 10px;
+  transition: all ease 1.2s;
+  
+}
+#about-6 .about-6-img-box:hover .headshot-2::after {
+    background: linear-gradient(348deg, #5239FA 17.97%, rgba(255, 255, 255, 0.00) 79.2%);
+}
+#about-6 .about-6-img-box:hover .headshot-2 a {
+  color: #fff;
+}
+#about-6 .about-6-img-box .headshot-2 {
+  background: url(../images/serious-man-3760373.png);
+  width: 168px;
+  height: 168px;
+  flex-shrink: 0;
+  border-radius: 100px;
+  margin: 0 auto;
+  margin-bottom: 30px;
+  margin-top: 48px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: end;
+}
+#about-6 .about-6-img-box .headshot-2::after {
+  content: '';
+  position: absolute;
+  z-index: 2;
+  top: 0;
+  left: 0;
+  width: 168px;
+  height: 168px;
+  border-radius: 100px;
+  background-color: transparent;
+  transition: all ease 1.2s;
+}
+#about-6 .about-6-img-box .headshot-2 a {
+  color: transparent;
+  position: relative;
+  z-index: 3;
+  padding-bottom: 25px;
+  padding-left: 10px;
+  transition: all ease 1.2s;
+  
+}
+#about-6 .about-6-img-box:hover .headshot-3::after {
+    background: linear-gradient(348deg, #5239FA 17.97%, rgba(255, 255, 255, 0.00) 79.2%);
+}
+#about-6 .about-6-img-box:hover .headshot-3 a {
+  color: #fff;
+}
+#about-6 .about-6-img-box .headshot-3 {
+  background: url(../images/man-in-white-shirt-wearing-blue-bucket-hat-6626874.png);
+  width: 168px;
+  height: 168px;
+  flex-shrink: 0;
+  border-radius: 100px;
+  margin: 0 auto;
+  margin-bottom: 30px;
+  margin-top: 48px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: end;
+}
+#about-6 .about-6-img-box .headshot-3::after {
+  content: '';
+  position: absolute;
+  z-index: 2;
+  top: 0;
+  left: 0;
+  width: 168px;
+  height: 168px;
+  border-radius: 100px;
+  background-color: transparent;
+  transition: all ease 1.2s;
+}
+#about-6 .about-6-img-box .headshot-3 a {
+  color: transparent;
+  position: relative;
+  z-index: 3;
+  padding-bottom: 25px;
+  padding-left: 10px;
+  transition: all ease 1.2s;
+  
+}
+#about-6 .about-6-img-box:hover .headshot-4::after {
+    background: linear-gradient(348deg, #5239FA 17.97%, rgba(255, 255, 255, 0.00) 79.2%);
+}
+#about-6 .about-6-img-box:hover .headshot-4 a {
+  color: #fff;
+}
+#about-6 .about-6-img-box .headshot-4 {
+  background: url(../images/transgender-model-touching-forehead-in-neon-light-7613875.png);
+  width: 168px;
+  height: 168px;
+  flex-shrink: 0;
+  border-radius: 100px;
+  margin: 0 auto;
+  margin-bottom: 30px;
+  margin-top: 48px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: end;
+}
+#about-6 .about-6-img-box .headshot-4::after {
+  content: '';
+  position: absolute;
+  z-index: 2;
+  top: 0;
+  left: 0;
+  width: 168px;
+  height: 168px;
+  border-radius: 100px;
+  background-color: transparent;
+  transition: all ease 1.2s;
+}
+#about-6 .about-6-img-box .headshot-4 a {
+  color: transparent;
+  position: relative;
+  z-index: 3;
+  padding-bottom: 25px;
+  padding-left: 10px;
+  transition: all ease 1.2s;
+  
+}
+#about-6 .about-6-img-box h3 {
+  color: #1d2130;
+  text-align: center;
+
+  /* Heading 6 */
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 36px; /* 150% */
+}
+#about-6 .about-6-img-box p {
+  color: #1d2130;
+  opacity: 0.7;
+  text-align: center;
+  /* Body 1 */
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px; /* 175% */
+}
+
+/* ABOUT-6 CSS END */
